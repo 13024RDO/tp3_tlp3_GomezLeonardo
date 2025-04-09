@@ -6,7 +6,7 @@
    ```
 2. **Accede al directorio del repositorio**:
    ```bash
-   cd TP3_TLP3_GomezLeonardo
+   cd tp3_tlp3_GomezLeonardo
    ```
 3. **Abre Visual Studio Code con la extension instalada de Jupiter Notebook** y explora los ejemplos:
    ```bash
